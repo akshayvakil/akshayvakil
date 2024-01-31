@@ -5,6 +5,7 @@
 - 📫 How to reach me akshayvakil1@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Started Github in Jan 2024 wil publish all my handson project each month.
 
 <!---
 akshayvakil/akshayvakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
