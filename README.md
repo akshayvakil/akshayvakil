@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akshayvakil
 - 👀 I’m interested in different technolgies used for automation testing
-- 🌱 I’m currently learning Jmeter 
+- 🌱 I’m expert in Selenium - Java / REST Framework currently learning Jmeter 
 - 💞️ I’m looking to collaborate on Automation
 - 📫 How to reach me akshayvakil1@gmail.com
 - 😄 Pronouns: ...
